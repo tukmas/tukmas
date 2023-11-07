@@ -1,5 +1,6 @@
-### Hi there 👋
+### Hi there 👋 I'm Sergei
 
+Мой стек технологий
 ![image](https://github.com/tukmas/tukmas/assets/108234859/cfd42dfe-4c10-4b7f-92d2-675e2bc79c45)
 ![image](https://github.com/tukmas/tukmas/assets/108234859/7f2c525d-f35b-4cc5-b737-2c3b4ff9e715)
 ![image](https://github.com/tukmas/tukmas/assets/108234859/8f6a955f-01c8-42bf-ba19-a2c90bff32b8)
