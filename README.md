@@ -14,7 +14,8 @@
 
 
 ### Давай поговорим:
-<a href="https://t.me/tukma"><img src="https://srv2.imgonline.com.ua/result_img/imgonline-com-ua-Resize-ERH8uMVAgrDxDrs.jpg"></a>
-<a href="https://mail.yandex.ru/"><img src="https://srv2.imgonline.com.ua/result_img/imgonline-com-ua-Resize-UJ6OtjADTQZURBa.jpg"></a>
+<a href="https://t.me/tukma"><img src="https://ltdfoto.ru/images/2023/11/08/1.jpg"></a>
+<a href="https://mail.yandex.ru/"><img src="https://ltdfoto.ru/images/2023/11/08/2.jpg"></a>
+
 
 
