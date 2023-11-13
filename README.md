@@ -15,7 +15,7 @@
 
 ### Давай поговорим:
 <a href="https://t.me/tukma"><img src="https://ltdfoto.ru/images/2023/11/08/1.jpg"></a>
-<a href="https://mail.yandex.ru/"><img src="https://ltdfoto.ru/images/2023/11/08/2.jpg"></a>
+
 
 
 
