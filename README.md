@@ -3,6 +3,7 @@
 В настоящее время занимаюсь разработкой на Kotlin и Java 👩‍💻
 
 ### Мой стек технологий:
+<a href="https://kotlinlang.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Kotlin_Icon.png/1200px-Kotlin_Icon.png" width="50" height="50"></a>
 <a href="https://www.java.com/ru/"><img src="https://user-images.githubusercontent.com/108234859/281054470-cfd42dfe-4c10-4b7f-92d2-675e2bc79c45.png"></a>
 <a href="https://spring.io/"><img src="https://user-images.githubusercontent.com/108234859/281054297-7f2c525d-f35b-4cc5-b737-2c3b4ff9e715.png"></a>
 <a href="https://www.postgresql.org/"><img src="https://user-images.githubusercontent.com/108234859/281054401-8f6a955f-01c8-42bf-ba19-a2c90bff32b8.png"></a>
