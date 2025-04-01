@@ -12,12 +12,3 @@
 <a href="https://github.com/"><img src="https://user-images.githubusercontent.com/108234859/281053632-a7afdc65-522b-481a-b15f-cadba3be06b1.png"></a>
 <a href="https://www.docker.com/"><img src="https://user-images.githubusercontent.com/108234859/281053512-aa0a193d-11f4-4a32-8d8b-164cce547443.png"></a>
 <a href="https://www.postman.com/"><img src="https://user-images.githubusercontent.com/108234859/281053347-12316ce1-ad84-4413-96a1-44950df3b504.png"></a>
-
-
-### Давай поговорим:
-<a href="https://t.me/tukma"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/1200px-Telegram_2019_Logo.svg.png" width="50" height="50"></a>
-
-
-
-
-
